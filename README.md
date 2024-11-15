@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to launch my own app or my own game
 - 💞️ I’m looking for collaborate on everyone and learn
 - 📫 How to reach me : You can reach me on [YouTube](https://m.youtube.com/channel/UC02TOriGslvEFxLhGl0Kqsg), [Discord](https://discord.com/channels/1220032290579681404/1220032290579681407) or even my [Mail](azertypatata8@gmail.com)but I planned to sign up on Reddit.
-- 😄 Pronouns: I think they're is no pronouns for E-xml. However you can call me TheCPUGuy294. I don't which one is better so call me like you want.
+- 😄 Pronouns: I think they're is no pronouns for E-xml. However you can call me TheCPUGuy294. I don't know which one is better so call me like you want.
 - ⚡ Fun fact: I like to use emoticons like ":P" or "XD"
 
 <!---
