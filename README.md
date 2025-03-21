@@ -6,7 +6,7 @@
 * My [YouTube Channel](https://m.youtube.com/channel/UC02TOriGslvEFxLhGl0Kqsg)
 * My [E-mail](azertypatata8@gmail.com)
 - 😄 Pronouns: Call me Dev
-- ⚡ Fun fact: I 
+- ⚡ Fun fact: I don't like semicolons
 
 <!---
 E-xml/E-xml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
