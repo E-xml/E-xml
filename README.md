@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @E-xml
-- 👀 I’m interested in coding app and games
-- 🌱 I’m currently learning to launch my own app or my own game
-- 💞️ I’m looking for collaborate on everyone and learn
-- 📫 How to reach me : You can reach me on [YouTube](https://m.youtube.com/channel/UC02TOriGslvEFxLhGl0Kqsg), [Discord](https://discord.com/channels/1324806621230141542/1324806621230141545),
- [E-mail](azertypatata8@gmail.com) and  [Reddit](https://www.reddit.com/user/Responsible-Rip-8536/)
-- 😄 Pronouns: I think they're is no pronouns for E-xml. However you can call me TheCPUGuy294. I don't know which one is better so call me like you want.
-- ⚡ Fun fact: I like to use emoticons like ":P" or "XD"
+- 👀 I’m interested in 
+- 🌱 I’m currently learning about code
+- 💞️ I’m looking for knowledge
+- 📫 How to reach me :
+* My [YouTube Channel](https://m.youtube.com/channel/UC02TOriGslvEFxLhGl0Kqsg)
+* My [E-mail](azertypatata8@gmail.com)
+- 😄 Pronouns: Call me Dev
+- ⚡ Fun fact: I 
 
 <!---
 E-xml/E-xml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
