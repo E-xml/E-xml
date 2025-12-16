@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @E-xml
-- 👀 I’m interested in 
-- 🌱 I’m currently learning about code
-- 💞️ I’m looking for knowledge
-- 📫 How to reach me :
-* My [YouTube Channel](https://m.youtube.com/channel/UC02TOriGslvEFxLhGl0Kqsg)
-* My [E-mail](azertypatata8@gmail.com)
-- 😄 Pronouns: Call me Dev
-- ⚡ Fun fact: I don't like semicolons
+Yo,
+
+I'm E-xml.
+I like code and I like video games, so my repos will be mainly games.
+
+I use to code in Python with pygame, which is kinda boring so I will code in C or assembly from now on.
+
+Enjoy playing to old fashioned game and, who knows, maybe I'll get famous idk.
 
 <!---
 E-xml/E-xml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
